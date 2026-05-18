@@ -1,2 +1,2 @@
 # GIS-Portfolio
-GIS based portfolio
+GIS/ENVI based portfolio
